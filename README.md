@@ -1,6 +1,6 @@
 # projeto-frontendreact
 
-# [Link do Deploy](https://run-space-wes.surge.sh)
+# [Link do Deploy](https://run-space-wes.surge.sh){:target="_blank"}
 
 Esse é o projeto de introdução aos fundamentos do React. Aqui, vamos praticar a estrutura do que consideramos a estrutura do React. O objetivo é que funcione como o front-end de um E-Commerce
 
